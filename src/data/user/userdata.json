@@ -1,0 +1,31 @@
+{
+    "LOGO": "SK",
+    "FULLNAME": "SK JASIMUDDIN",
+    "INTRODUCTION": "Hey there! 👋 I'm SK JASIMUDDIN, a dynamic and forward-thinking individual with a knack for all things tech! 🚀 Currently cruising through my third year of B.Tech studies, I'm not just hitting the books—I'm diving deep into the exciting world of mobile app development. 📱 \n\t**Armed with a diverse skill set, I'm your go-to person for crafting top-notch mobile applications that users love! 💡** \n\tFrom React Native to Swift, Java to JavaScript, and the awesome MERN stack, I've got it all covered. 💪 \n\tWhether it's building sleek interfaces or tackling complex backend functionalities, I'm always up for the challenge. 💻 \n\tLet's connect and bring your app ideas to life in style! 🎉",
+    "social": {
+        "Fb": "https://www.facebook.com/profile.php?id=100093297441330",
+        "LINKDIN": "https://www.linkedin.com/in/sk-jasimuddin-57929a234",
+        "TWITTER": "https://www.twitter.com/jasim0021",
+        "GITHUB": "https://www.github.com/jasim0021",
+        "BLOG":"https://top10techlearning.blogspot.com/"
+    },
+    "role": [
+        "Software Developer",
+        "Freelancer",
+        "Mobile Developer",
+        "MERN Stack Developer",
+        "Open Source Contributor"
+    ],
+    "LOCATION": "Westbengal, India",
+    "EMPLOYMENT": "Mobile Application Developer at Techwens",
+    "EDUCATION": "B.Tech in Computer Science and Engineering from Camallia Institute of Engineering And Technology",
+    "ACTIVITIES": [
+        "Coding",
+        "Writing Tech Blogs",
+        "Read books",
+        "Play Games",
+        "Travelling"
+        
+    ],
+    "QUOTE": "Consistency and confidence can help you achieve anything in the world!"
+}
